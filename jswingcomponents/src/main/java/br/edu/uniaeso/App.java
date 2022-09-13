@@ -2,7 +2,9 @@ package br.edu.uniaeso;
 
 import javax.swing.JFrame;
 
-public class App 
+public class App
+// - Quebrar o paradigma imperativo natural da máquina -> OO
+// - Reconfigurar/Repassar adequadamente para a interface tudo que o SO enviar 
 {
     public static void main( String[] args )
     {
